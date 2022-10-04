@@ -1,7 +1,7 @@
-`sudo apt install rhash dialog libncurses-dev ntp && sudo systemctl stop ntp`
+sudo apt install rhash dialog libncurses-dev ntp && sudo systemctl stop ntp
 
-`git clone https://github.com/oddlama/gentoo-install`
+git clone https://github.com/oddlama/gentoo-install
 
 add new packages:
 
-networkmanager xorg-server icewm firefox-bin
+networkmanager xorg-server icewm firefox-bin xterm vim
