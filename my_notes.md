@@ -12,4 +12,4 @@ setup:
   * .icewm/startup: nm-applet &
   * add a regular user with right groups and zsh
   * .xsession: icewm-session; config slim to autologin
-  * install rofi: set "Super+Space" key in .config/icewm/keys to call it up
+  * install rofi: set "Super+Space" and "Super+Shift+Space" keys in .config/icewm/keys to call it up with rofi -show drun and rofi -show run
