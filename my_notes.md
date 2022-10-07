@@ -13,5 +13,5 @@ setup:
   * add a regular user with right groups and zsh
   * .xsession: icewm-session; config slim to autologin; config in .config/icewm
   * install rofi: set "Super+Space" and "Super+Shift+Space" keys in .config/icewm/keys to call it up with rofi -show drun and rofi -show run
-  * install apcilight: use xbacklight in keys config for keyboard control of monitor brightness
+  * install apcilight: use xbacklight in keys config for keyboard control of monitor brightness (keys don't work within full screen app, like the unigine_superposition benchmark)
   * python venv: glances, rickslab-gpu-utils (need to comment out some code to run gpu-mon in text mode)
